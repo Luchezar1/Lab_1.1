@@ -1,0 +1,8 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "blessed": "^0.1.81"
+  }
+}
